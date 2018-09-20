@@ -1,0 +1,17 @@
+classdef Trajectory1
+    properties
+        lambda
+        C
+        sigma_lambda
+        sigma_C
+        length
+        ds
+        alpha
+        theta
+        x
+        y
+        z
+        sum
+        fitness
+    end
+end
